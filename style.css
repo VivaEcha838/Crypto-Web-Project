@@ -1,0 +1,30 @@
+body{
+    background-color: #162B32;
+}
+
+h1 {
+    font-family: "fantasy";
+    font-size: 40px;
+    font-weight: 300;
+    color: mediumseagreen;
+    text-align: center;
+
+}
+h2{
+    font-size: 34px;
+    font-weight: 'bold';
+    text-align: center;
+    color: greenyellow
+}
+h3{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: oldlace
+}
+a{
+    line-break: loose;
+    font-size: 30px;
+    line-height: 3cm;
+    color: gold
+}

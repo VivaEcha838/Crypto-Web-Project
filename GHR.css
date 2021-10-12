@@ -1,0 +1,14 @@
+h1{
+    font-weight: bold;
+    font-style: italic;
+    font-family: "cursive";
+    color: #ffd700
+}
+body{
+    background-color: #162B32;
+}
+p{
+    line-height: 1cm;
+    color: #888888;
+    font-size: 18px;
+}
